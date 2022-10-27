@@ -1,7 +1,7 @@
 # Funtory-Tapsel-Challenge
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/WW164/Funtory-Tapsel-Challenge)
-![GitHub](https://img.shields.io/github/license/WW164/Funtory-Tapsel-Challenge)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Description
 This project is a non-script challenge I did for Funtory studio.
